@@ -1,0 +1,36 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;800&family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap');
+
+@theme {
+  --font-cinzel: "Cinzel", serif;
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-gold: #e8a95b;
+  --color-orange-neon: #ff6b00;
+  --color-bg-deep: #050302;
+}
+
+@layer base {
+  body {
+    @apply bg-bg-deep text-white font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, .font-cinzel {
+    @apply font-cinzel;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/5 backdrop-blur-xl border border-white/10;
+  }
+  
+  .text-glow {
+    text-shadow: 0 0 10px rgba(232, 169, 91, 0.5);
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #050302; }
+::-webkit-scrollbar-thumb { background: #e8a95b; border-radius: 10px; }
