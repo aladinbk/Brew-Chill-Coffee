@@ -26,7 +26,7 @@ Une application web moderne pour présenter un café avec une expérience immers
 
 ### 📱 Version mobile
 
-![Mobile](./public/screenshots/home iphone.PNG)
+![Mobile](./public/screenshots/iphone.PNG)
 
 ---
 
