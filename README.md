@@ -14,19 +14,19 @@ Une application web moderne pour présenter un café avec une expérience immers
 
 ### 🏠 Accueil
 
-![Home](./public/screenshots/home.png)
+![Home](./public/screenshots/home.PNG)
 
 ### 📋 Processus
 
-![Menu](./public/screenshots/processus.png)
+![Menu](./public/screenshots/processus.PNG)
 
 ### 🖼️ Galerie
 
-![Gallery](./public/screenshots/galerie.png)
+![Gallery](./public/screenshots/galerie.PNG)
 
 ### 📱 Version mobile
 
-![Mobile](./public/screenshots/home iphone.png)
+![Mobile](./public/screenshots/home iphone.PNG)
 
 ---
 
