@@ -16,17 +16,17 @@ Une application web moderne pour présenter un café avec une expérience immers
 
 ![Home](./public/screenshots/home.png)
 
-### 📋 Menu
+### 📋 Processus
 
-![Menu](./public/screenshots/menu.png)
+![Menu](./public/screenshots/processus.png)
 
 ### 🖼️ Galerie
 
-![Gallery](./public/screenshots/gallery.png)
+![Gallery](./public/screenshots/galerie.png)
 
 ### 📱 Version mobile
 
-![Mobile](./public/screenshots/mobile.png)
+![Mobile](./public/screenshots/home iphone.png)
 
 ---
 
